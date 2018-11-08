@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-const API_KEY = 'AIzaSyBtTTddh_6G0JFu_r2k0LJaxy4-BwC3b3Q';
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
